@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-25T09:14:00.000Z</updated>
+  <updated>2023-03-25T10:00:30.172Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>装修日记</title>
-    <link href="http://example.com/2023/03/25/2023.03.23/"/>
-    <id>http://example.com/2023/03/25/2023.03.23/</id>
+    <link href="http://example.com/2023/03/25/2023.03.25/"/>
+    <id>http://example.com/2023/03/25/2023.03.25/</id>
     <published>2023-03-25T09:14:00.000Z</published>
-    <updated>2023-03-25T09:14:00.000Z</updated>
+    <updated>2023-03-25T10:00:30.172Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="装修日记03-25"><a href="#装修日记03-25" class="headerlink" title="装修日记03.25"></a>装修日记03.25</h1><p><strong>小学了一下Markdown的语法</strong></p><p>开始写网站的第一部分啦，每天都在这更新一下进度</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean 清楚缓存区</span><br><span class="line"></span><br><span class="line">hexo g 生成静态文件</span><br><span class="line"></span><br><span class="line">hexo server 在本地查看网页</span><br><span class="line"></span><br><span class="line">hexo d 部署到云端网页上</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<h1 id="装修日记03-25"><a href="#装修日记03-25" class="headerlink" title="装修日记03.25"></a>装修日记03.25</h1><p><strong>小学了一下Markdown的语法</strong></p><p>开始写网站的第一部分啦，每天都在这更新一下进度</p><p>基本命令</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo clean 清楚缓存区</span><br><span class="line"></span><br><span class="line">hexo g 生成静态文件</span><br><span class="line"></span><br><span class="line">hexo server 在本地查看网页</span><br><span class="line"></span><br><span class="line">hexo d 部署到云端网页上</span><br></pre></td></tr></table></figure><p>hexo生成新页面</p><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo new page xxx(如link)</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
     
     
       
