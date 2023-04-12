@@ -1,4 +1,6 @@
 http://example.com/2023/03/25/2023.03.25/
+http://example.com/music/index.html
+http://example.com/2023/04/12/2023.04.12/
 http://example.com/link/index.html
 http://example.com/tages/index.html
 http://example.com/
