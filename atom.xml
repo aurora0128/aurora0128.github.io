@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-04-12T12:56:28.377Z</updated>
+  <updated>2023-04-13T12:42:40.910Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>.gitignore文件的配置</title>
+    <link href="http://example.com/2023/04/13/2023.04.13/"/>
+    <id>http://example.com/2023/04/13/2023.04.13/</id>
+    <published>2023-04-13T12:41:26.315Z</published>
+    <updated>2023-04-13T12:42:40.910Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="忽略"><a href="#忽略" class="headerlink" title="忽略"></a>忽略</h1><h2 id="忽略文件"><a href="#忽略文件" class="headerlink" title="忽略文件"></a>忽略文件</h2><p>example.cpp</p><h2 id="忽略example目录下的example-cpp"><a href="#忽略example目录下的example-cpp" class="headerlink" title="忽略example目录下的example.cpp"></a>忽略example目录下的example.cpp</h2><p>example&#x2F;example.cpp</p><h2 id="忽略example目录下的-cpp"><a href="#忽略example目录下的-cpp" class="headerlink" title="忽略example目录下的*.cpp"></a>忽略example目录下的*.cpp</h2><p>example&#x2F;*.cpp</p><h2 id="忽略所有后缀为cpp的文件"><a href="#忽略所有后缀为cpp的文件" class="headerlink" title="忽略所有后缀为cpp的文件"></a>忽略所有后缀为cpp的文件</h2><p>*.cpp</p><h2 id="不忽略当前路径下的example-cpp文件"><a href="#不忽略当前路径下的example-cpp文件" class="headerlink" title="不忽略当前路径下的example.cpp文件"></a>不忽略当前路径下的example.cpp文件</h2><p>!.&#x2F;example.cpp</p><p><strong>总的来说就是不想要什么直接写什么</strong></p><h1 id="添加"><a href="#添加" class="headerlink" title="添加"></a>添加</h1><h2 id="强制添加到文件当中"><a href="#强制添加到文件当中" class="headerlink" title="强制添加到文件当中"></a>强制添加到文件当中</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git add -f example.cpp</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;忽略&quot;&gt;&lt;a href=&quot;#忽略&quot; class=&quot;headerlink&quot; title=&quot;忽略&quot;&gt;&lt;/a&gt;忽略&lt;/h1&gt;&lt;h2 id=&quot;忽略文件&quot;&gt;&lt;a href=&quot;#忽略文件&quot; class=&quot;headerlink&quot; title=&quot;忽略文件&quot;&gt;&lt;/a&gt;忽略文件&lt;/h</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>bug记录</title>
